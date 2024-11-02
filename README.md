@@ -20,4 +20,4 @@ I welcome feedback and discussions! If you have alternative solutions or improve
 
 Follow me on GitHub to keep up with my latest solutions and explanations. Together, we can tackle the challenges of LeetCode and improve our coding skills!
 
-Happy coding! 😊
+Happy coding!😊
