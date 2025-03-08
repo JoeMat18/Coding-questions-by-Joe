@@ -2,7 +2,7 @@
 
 Welcome to **Coding questions by Joe**! 🚀
 
-In this repository, I am working on LeetCode problems and providing clear, step-by-step explanations for each solution. My goal is to help beginners understand problem-solving techniques and coding strategies for LeetCode / CodeWard and HackerRank questions.
+In this repository, I am working on LeetCode / CodeWard and HackerRank problems and providing clear, step-by-step explanations for each solution. My goal is to help beginners understand problem-solving techniques and coding strategies for LeetCode / CodeWard and HackerRank questions.
 
 ## About This Repository
 
@@ -18,6 +18,6 @@ I welcome feedback and discussions! If you have alternative solutions or improve
 
 ## Let’s Connect!
 
-Follow me on GitHub to keep up with my latest solutions and explanations. Together, we can tackle the challenges of LeetCode and improve our coding skills!
+Follow me on GitHub to keep up with my latest solutions and explanations. Together, we can tackle the challenges of LeetCode / CodeWard and HackerRank and improve our coding skills!
 
 Happy coding!😊
