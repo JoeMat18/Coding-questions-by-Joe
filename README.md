@@ -1,8 +1,8 @@
-# LeetCode by Joe
+# Coding questions by Joe
 
 Welcome to **LeetCode by Joe**! 🚀
 
-In this repository, I am working on LeetCode problems and providing clear, step-by-step explanations for each solution. My goal is to help beginners understand problem-solving techniques and coding strategies for LeetCode questions.
+In this repository, I am working on LeetCode problems and providing clear, step-by-step explanations for each solution. My goal is to help beginners understand problem-solving techniques and coding strategies for LeetCode / CodeWard and HackerRank questions.
 
 ## About This Repository
 
