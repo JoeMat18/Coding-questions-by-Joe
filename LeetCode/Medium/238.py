@@ -18,8 +18,4 @@ class Solution(object):
 
         return result
 
-if __name__ == "__main__":
-    nums = [1, 2, 3, 4]
-    solution = Solution()
-    output = solution.productExceptSelf(nums)
-    print("Output:", output)
+
