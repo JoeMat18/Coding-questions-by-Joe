@@ -14,3 +14,17 @@ https://acmp.ru/index.asp?main=task&id_task=534
 В выходной файл OUTPUT.TXT необходимо вывести N строк, содержащих информацию об исправности клавиш. Если i-ая клавиша сломалась, то i-ая строка должна содержать слово "yes" (без кавычек), если же клавиша работоспособна – слово "no".
 """
 
+n = int(input().strip())
+c = list(map(int,input().split()))
+press_count = [0] * n
+k = int(input().strip())
+pressed_keys = list(map(int, input().split()))
+
+for key in pressed_keys:
+    press_count[key - 1] += 1
+
+for k in range(n):
+    if press_count[k] > c[k]:
+        print("yes")
+    else:
+        print("no")
