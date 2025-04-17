@@ -25,7 +25,12 @@ The output file **OUTPUT.TXT** should contain a single integer –
 the **total number of goals** scored in the match.
 """
 
-total_sum = int(input().strip())
+import math
 
+s = int(input().strip())
+
+result = (-1 + math.sqrt(8 * s + 1)) / 2
+
+print(result)
 
 
