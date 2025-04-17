@@ -34,3 +34,11 @@ the coordinate where the school should be built.
 If multiple positions yield the same minimal total distance, output the **largest** one.
 
 """
+
+n = int(input())
+
+coords = list(map(int, input().split()))
+
+school_coord = coords[n // 2]
+
+print(school_coord)

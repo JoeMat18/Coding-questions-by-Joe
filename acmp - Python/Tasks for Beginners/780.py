@@ -27,14 +27,5 @@ the **total number of goals** scored in the match.
 
 total_sum = int(input().strip())
 
-team_a = 0
-team_b = 0
-
-while total_sum != 0:
-    total_sum = total_sum - (team_a + team_b)
-    team_a += 1
-    team_b += 1
-result = team_a + team_b
-print(result)
 
 
