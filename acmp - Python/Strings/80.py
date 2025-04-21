@@ -42,7 +42,6 @@ The output file **OUTPUT.TXT** should contain one of the following strings:
 - `"YES"` – if the expression is valid and correct;
 - `"NO"` – if the expression is valid but incorrect;
 - `"ERROR"` – if the expression is not valid.
-
 """
 
 
